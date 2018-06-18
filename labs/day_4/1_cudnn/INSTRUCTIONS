@@ -1,0 +1,8 @@
+<Lab Objective>
+1. Create CUDA streams and cuDNN handle, interfacing them with each other
+2. Create a tensor descriptor for input feature mapp
+3. Create a filter descriptor for target convolutional layer
+4. Create a convolution layer descriptor
+5. Derive the output feature map dimension using the descriptors of input feature map and filter
+Create a tensor descriptor for output feature map
+(Optional) Profile all convolution algorithms available under cuDNN library
